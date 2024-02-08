@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://hmenorjr.github.io",
+  baseUrl: "https://hmenorjr.github.io/jhazmagne.d.tobias",
   name: "Jhazmagne Dhane D. Tobias",
   // jobDescription: "IT-utvecklare",
   about: `- Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
