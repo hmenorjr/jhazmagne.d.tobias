@@ -2,71 +2,44 @@ export const info = {
   baseUrl: "https://hmenorjr.github.io/jhazmagne.d.tobias",
   name: "Jhazmagne Dhane D. Tobias",
   // jobDescription: "IT-utvecklare",
-  about: `- Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
+  about: `Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Kassör | LizArtWorks",
+      location: "Mariehamn, Åland Islands, Finland",
+      startDate: "Sept 2023",
+      endDate: "Nuvarande",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "Jag hjälper till att organisera butiken och sälja varorna."
       ],
-    },
-
-    {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
-      description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-      ],
-    },
+    }
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Strandnäs Skola 1-9, Mariehamn, Åland",
+      location: "Mariehamn, Åland Islands, Finland",
+      startDate: "2021",
+      endDate: "Nuvarande",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Jag har studarera vetenskap och programerren om hjälp med forstå IT.",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
+      name: "ERIS (Eulogio Rodriguez Integrated School)",
+      location: "Mandaluyong City, Metro Manila, Philippines",
+      startDate: "2020",
+      endDate: "2021",
+      description: ["Jag gjort årkurs 6"],
     },
     {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "BES (Binangonan Central Elementary School)",
+      location: "Binangonan, Rizal, Philippines",
+      startDate: "2019",
+      endDate: "2020",
+      description: ["Jag gjort årkurs 5,  Computer Science"],
     },
   ],
 
