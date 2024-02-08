@@ -5,14 +5,6 @@ export const info = {
   about: `- Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
   `,
 
-  address: [
-    {
-      name: "",
-      location: "Sandåsvägen 4, Mariehamn, Åland Islands, Finland 22100",
-    }
-
-  ],
-
   experience: [
     {
       name: "InterNative Labs, LLC",
