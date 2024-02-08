@@ -3,7 +3,7 @@ export const info = {
   name: "Jhazmagne Dhane D. Tobias",
   // jobDescription: "IT-utvecklare",
   address: "some address",
-  about: `\n - Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
+  about: `- Jag är bra på organisera många saker. Jag kan också städer upp litet rum, tvätta tallrikar och bestick. Jag tycker om dator och teknologi. Jag vill ska bli en IT-profiesionell eller dator-utvecklare.
   `,
 
   experience: [
